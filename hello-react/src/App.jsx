@@ -1,7 +1,7 @@
-import 반복문테스트 from './반복문테스트'
+import Button from './Children테스트'
 
 function App() {
-  return <반복문테스트 />
+  return <Button />
 }
 
 export default App
